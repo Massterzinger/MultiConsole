@@ -1,0 +1,8 @@
+D:\MyMade\VS2017\MultiConsole\MultiConsole\bin\Debug\MultiConsole.exe.config
+D:\MyMade\VS2017\MultiConsole\MultiConsole\bin\Debug\MultiConsole.exe
+D:\MyMade\VS2017\MultiConsole\MultiConsole\bin\Debug\MultiConsole.pdb
+D:\MyMade\VS2017\MultiConsole\MultiConsole\obj\Debug\MultiConsole.exe
+D:\MyMade\VS2017\MultiConsole\MultiConsole\obj\Debug\MultiConsole.pdb
+D:\MyMade\VS2017\MultiConsole\MultiConsole\bin\Debug\ConsoleAddon.dll
+D:\MyMade\VS2017\MultiConsole\MultiConsole\bin\Debug\ConsoleAddon.pdb
+D:\MyMade\VS2017\MultiConsole\MultiConsole\obj\Debug\MultiConsole.csprojResolveAssemblyReference.cache

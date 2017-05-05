@@ -1,0 +1,5 @@
+D:\MyMade\VS2017\MultiConsole\CalcFunctions\bin\Debug\CalcFunctions.dll
+D:\MyMade\VS2017\MultiConsole\CalcFunctions\bin\Debug\CalcFunctions.pdb
+D:\MyMade\VS2017\MultiConsole\CalcFunctions\obj\Debug\CalcFunctions.dll
+D:\MyMade\VS2017\MultiConsole\CalcFunctions\obj\Debug\CalcFunctions.pdb
+D:\MyMade\VS2017\MultiConsole\CalcFunctions\obj\Debug\CalcFunctions.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\MyMade\VS2017\MultiConsole\PostfixCalc\bin\Debug\PostfixCalc.dll
+D:\MyMade\VS2017\MultiConsole\PostfixCalc\bin\Debug\PostfixCalc.pdb
+D:\MyMade\VS2017\MultiConsole\PostfixCalc\bin\Debug\ConsoleAddon.dll
+D:\MyMade\VS2017\MultiConsole\PostfixCalc\bin\Debug\ConsoleAddon.pdb
+D:\MyMade\VS2017\MultiConsole\PostfixCalc\obj\Debug\PostfixCalc.csprojResolveAssemblyReference.cache
+D:\MyMade\VS2017\MultiConsole\PostfixCalc\obj\Debug\PostfixCalc.dll
+D:\MyMade\VS2017\MultiConsole\PostfixCalc\obj\Debug\PostfixCalc.pdb
+D:\MyMade\VS2017\MultiConsole\PostfixCalc\bin\Debug\CalcFunctions.dll
+D:\MyMade\VS2017\MultiConsole\PostfixCalc\bin\Debug\CalcFunctions.pdb

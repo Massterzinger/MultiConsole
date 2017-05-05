@@ -1,0 +1,7 @@
+D:\MyMade\VS2017\MultiConsole\SMathOperations\bin\Debug\SMathOperations.dll
+D:\MyMade\VS2017\MultiConsole\SMathOperations\bin\Debug\SMathOperations.pdb
+D:\MyMade\VS2017\MultiConsole\SMathOperations\bin\Debug\CalcFunctions.dll
+D:\MyMade\VS2017\MultiConsole\SMathOperations\bin\Debug\CalcFunctions.pdb
+D:\MyMade\VS2017\MultiConsole\SMathOperations\obj\Debug\SMathOperations.csprojResolveAssemblyReference.cache
+D:\MyMade\VS2017\MultiConsole\SMathOperations\obj\Debug\SMathOperations.dll
+D:\MyMade\VS2017\MultiConsole\SMathOperations\obj\Debug\SMathOperations.pdb
