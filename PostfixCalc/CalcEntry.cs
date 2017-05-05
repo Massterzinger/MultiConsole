@@ -21,7 +21,8 @@ namespace PostfixCalc
             {
                 if (Funcs.ContainsKey(token))
                 {
-                    operands.Push(Funcs[token](operands.Pop(), operands.Pop()));
+                    double a = operands.Pop(), b = operands.Pop();
+                    operands.Push(Funcs[token](a, b));
                 }
                 else
                 {
