@@ -22,7 +22,7 @@ namespace PostfixCalc
                 if (Funcs.ContainsKey(token))
                 {
                     double a = operands.Pop(), b = operands.Pop();
-                    operands.Push(Funcs[token](a, b));
+                    operands.Push(Funcs[token](b, a));
                 }
                 else
                 {
