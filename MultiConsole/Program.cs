@@ -10,6 +10,7 @@ namespace MultiConsole
         private static Type pluginType = typeof(IConsoleAddon);
         private static Dictionary<string, ConsoleFunc> addons = new Dictionary<string, ConsoleFunc>();
         private static bool workBy = true;
+
         static void Main(string[] args)
         {
             addons.Add("help", () => { Console.WriteLine("You can execute: {0}", String.Join(", ", addons.Keys)); });
